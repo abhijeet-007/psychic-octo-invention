@@ -5,7 +5,7 @@ on:
     branches:
       - welcome-workflow
     paths:
-      - ".github/**"
+      - ".github/workflows/welcome.yml"
 
 permissions:
   contents: read
